@@ -87,6 +87,3 @@ function LimparNoticias(){
     main.removeChild(secondChild);
   }
 }
-
-
-PesquisaNoticias("natureza")
