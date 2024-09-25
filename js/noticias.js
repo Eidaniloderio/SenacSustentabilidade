@@ -89,4 +89,4 @@ function LimparNoticias(){
 }
 
 
-PesquisaNoticias("Natureza")
+PesquisaNoticias("natureza")
